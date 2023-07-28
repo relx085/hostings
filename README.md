@@ -1,2 +1,2 @@
-# hostings
-List of (possible) hostings, spoofing, bulletproof
+## Hostings
+List of (possible) spoofed, bulletproof hostings
