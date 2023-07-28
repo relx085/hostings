@@ -194,5 +194,5 @@ The list goes in order as shown below:
 
 # Credits
 
-Made by Cxmp in his free time all recording provided by external reports some given by me have fun and don't leak.
+Made by Cxmp in his free time all recording provided by external reports some given by me have fun.
 
